@@ -1,2 +1,2 @@
-# Video_to_frame_to_average
+# Video to frame to average
 &lt;
